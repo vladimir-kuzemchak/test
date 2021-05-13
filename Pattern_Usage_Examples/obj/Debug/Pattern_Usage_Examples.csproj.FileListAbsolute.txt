@@ -1,0 +1,7 @@
+D:\Visual Studio Project\Desktop_Project\Pattern_Usage_Examples\Pattern_Usage_Examples\bin\Debug\Pattern_Usage_Examples.exe.config
+D:\Visual Studio Project\Desktop_Project\Pattern_Usage_Examples\Pattern_Usage_Examples\bin\Debug\Pattern_Usage_Examples.exe
+D:\Visual Studio Project\Desktop_Project\Pattern_Usage_Examples\Pattern_Usage_Examples\bin\Debug\Pattern_Usage_Examples.pdb
+D:\Visual Studio Project\Desktop_Project\Pattern_Usage_Examples\Pattern_Usage_Examples\obj\Debug\Pattern_Usage_Examples.csprojAssemblyReference.cache
+D:\Visual Studio Project\Desktop_Project\Pattern_Usage_Examples\Pattern_Usage_Examples\obj\Debug\Pattern_Usage_Examples.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\Desktop_Project\Pattern_Usage_Examples\Pattern_Usage_Examples\obj\Debug\Pattern_Usage_Examples.exe
+D:\Visual Studio Project\Desktop_Project\Pattern_Usage_Examples\Pattern_Usage_Examples\obj\Debug\Pattern_Usage_Examples.pdb
